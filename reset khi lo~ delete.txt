@@ -1,0 +1,4 @@
+git add .
+git remote add origin https://github.com/Khai0305/test.git
+git fetch --all
+git reset --hard origin/master
